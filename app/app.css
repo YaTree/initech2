@@ -1,0 +1,53 @@
+.wrap {
+  height:auto;
+  margin: auto;
+  text-align:center;
+  position:relative;
+}
+
+.text_over_image {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: auto;
+  top: 0;
+  left:0;
+  right:0;
+  bottom:0;
+  color:#fff;
+  height:100px;
+}
+
+.image {
+}
+
+.footer {
+  text-align: center;
+}
+
+.page-content {
+}
+
+.big-container {
+}
+
+.little-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.login-box {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.login-content {
+  padding: 20px;
+  background-color: lightgrey;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.error {
+  float: right;
+  color: red;
+}
