@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="authRoutes" type="JavaScript" />
       <mapping pattern="box" type="JavaScript" />
+      <mapping pattern="authRoutes" type="JavaScript" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="stratagy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
