@@ -4,6 +4,7 @@
       <mapping pattern="box" type="JavaScript" />
       <mapping pattern="authRoutes" type="JavaScript" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="stratagy" type="PLAIN_TEXT" />
